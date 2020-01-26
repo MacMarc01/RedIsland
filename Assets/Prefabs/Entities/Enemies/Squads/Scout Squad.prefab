@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3372756769146051394
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8769723026169584100}
+  - component: {fileID: 321646291204720862}
+  m_Layer: 0
+  m_Name: Scout Squad
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8769723026169584100
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3372756769146051394}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &321646291204720862
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3372756769146051394}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 711c1affe432e3c4192bb45ef9dca030, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  members: []
+  isPlayer: 0
+  aStar: {fileID: 0}
+  updatesPerSecond: 1
+  movementRadiusMultiplier: 4
+  allowFreeMovement: 1
+  randomMoveEverySeconds: 20
+  randomMovementDistance: 30
+  team: 1
+  bloodlustMultiplier: 0.7
+  bloodlustRaisePerMinute: 0.16
+  showDebugInfo: 1
+  movementMode: 0
+  position: {x: 0, y: 0}
+  targetPosition: {x: -19, y: -65}
+  movementRadius: 0
+  mobile: 1
+  combatPower: 0
+  inCombat: 0
+  combatMode: 0
+  pursuingForSeconds: 0
+  fleeingFromCluster: 0
+  fleeingCounter: 0
+  bloodlust: 0
+  squadsInCombatWith: []
+  attackedSquad: {fileID: 0}
+  fleeingFrom: {fileID: 0}
+  damageReceived: 0
+  damageCaused: 0
+  spawned: 0

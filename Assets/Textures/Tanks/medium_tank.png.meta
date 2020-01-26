@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 6a4b7095190259e4195200b483c89fc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4966648748027138055
+    second: Track_0
+  - first:
+      213: -4777526967497847911
+    second: Track_1
+  - first:
+      213: -3800190693092989646
+    second: Track_2
+  - first:
+      213: 596434627023689657
+    second: 345
+  - first:
+      213: -3302707277246547953
+    second: Track_4
+  - first:
+      213: -6295982193941480389
+    second: Track_5
+  - first:
+      213: 5993671759141374443
+    second: Track_6
+  - first:
+      213: 5071100482913705020
+    second: Track_7
+  - first:
+      213: 3679294125423532617
+    second: Track_8
+  - first:
+      213: -1547421158654197919
+    second: Friend_Armor
+  - first:
+      213: -6625179908439233895
+    second: Friend_Turret
+  - first:
+      213: 7137994112478780690
+    second: medium_tank_0
+  - first:
+      213: -6220792943526203910
+    second: medium_tank_1
+  - first:
+      213: -8192082015454681883
+    second: medium_tank_2
+  - first:
+      213: 7592285325160139081
+    second: medium_tank_3
+  - first:
+      213: 2135006663277565791
+    second: medium_tank_4
+  - first:
+      213: 3243691716335864818
+    second: medium_tank_5
+  - first:
+      213: -3635959467099720850
+    second: medium_tank_6
+  - first:
+      213: 5551593737940102871
+    second: medium_tank_7
+  - first:
+      213: 250101876434292187
+    second: medium_tank_8
+  - first:
+      213: -8884045936752201317
+    second: Destroyed_Armor
+  - first:
+      213: 5816776893950108183
+    second: medium_tank_10
+  - first:
+      213: 116755247877531142
+    second: Enemy_Armor
+  - first:
+      213: 4483098260589622365
+    second: Friend_Turret
+  - first:
+      213: -129185997221552847
+    second: Enemy_Turret
+  - first:
+      213: -6625179908439233895
+    second: Friend_Gun
+  - first:
+      213: -4339975793697755218
+    second: Enemy_Gun
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Track_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 345
+        width: 26
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59c7852415d21841a871e9e033a342a
+      internalID: 4966648748027138055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Track_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 345
+        width: 26
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e9d39882601614b93ecb36bb60da1e
+      internalID: -4777526967497847911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Track_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 345
+        width: 26
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0dffcc79315c040b845b3705e0af60
+      internalID: -3800190693092989646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 345
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 345
+        width: 26
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7881204701cfa40800aaef2385c976
+      internalID: 596434627023689657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Track_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 345
+        width: 26
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0350c95c79694449a19a3888a59df46
+      internalID: -3302707277246547953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Track_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 345
+        width: 26
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db28bebfd76a59240850aafb4c656194
+      internalID: -6295982193941480389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Track_6
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 345
+        width: 26
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de8829feeb85174bade1b0fb4b2ef6c
+      internalID: 5993671759141374443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Track_7
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 345
+        width: 26
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be026187843ce0d498656689d33a308a
+      internalID: 5071100482913705020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Track_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 345
+        width: 26
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5b7c742f56ef145a1cd5a57e121660
+      internalID: 3679294125423532617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Friend_Armor
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 144
+        width: 120
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9bed92dccdba44187f86e05cf53949
+      internalID: -1547421158654197919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destroyed_Armor
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 136
+        width: 121
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae39afcf410b3cd458b4467c15ccd475
+      internalID: -8884045936752201317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Armor
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 136
+        width: 120
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958d3c21e0831474c8f1c33fb151f23e
+      internalID: 116755247877531142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Friend_Turret
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 69
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92734dc041ec9c64795c75f999e63cd6
+      internalID: 4483098260589622365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Turret
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 69
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de39e4e2051c7f48b478c74498d6457
+      internalID: -129185997221552847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Friend_Gun
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 10
+        width: 9
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcf02a6e232d9243a5b1ada5b113e6e
+      internalID: -6625179908439233895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Gun
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 10
+        width: 9
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3793ba9edc09b1b4c86c98ee5f3a4b70
+      internalID: -4339975793697755218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
