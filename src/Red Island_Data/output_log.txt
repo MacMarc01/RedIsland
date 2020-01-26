@@ -1,0 +1,54 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7800 Series (ID=0x6819)
+    Vendor:   ATI
+    VRAM:     2029 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Marc\Documents\Red Island\Red Island_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Marc\Documents\Red Island\Red Island_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Marc\Documents\Red Island\Red Island_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Marc\Documents\Red Island\Red Island_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Marc\Documents\Red Island\Red Island_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Marc\Documents\Red Island\Red Island_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Marc\Documents\Red Island\Red Island_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Marc\Documents\Red Island\Red Island_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Marc\Documents\Red Island\Red Island_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Marc\Documents\Red Island\Red Island_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Marc\Documents\Red Island\Red Island_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Marc\Documents\Red Island\Red Island_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Marc\Documents\Red Island\Red Island_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading C:\Users\Marc\Documents\Red Island\Red Island_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: C:\Users\Marc\Documents\Red Island\Red Island_Data\Managed\Pathfinding.JsonFx.dll (this message is harmless)
+Loading C:\Users\Marc\Documents\Red Island\Red Island_Data\Managed\Pathfinding.JsonFx.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+Platform assembly: C:\Users\Marc\Documents\Red Island\Red Island_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Marc\Documents\Red Island\Red Island_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.539806 ms
+Starting Red Island on 1/15/2017 12:00:00 AM; Starts: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.879179 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 847.
+Total: 0.759514 ms (FindLiveObjects: 0.039451 ms CreateObjectMapping: 0.046507 ms MarkObjects: 0.614218 ms  DeleteObjects: 0.059016 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.092833 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1eec -> priority: 1 
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2696.
+Total: 5.462537 ms (FindLiveObjects: 0.135994 ms CreateObjectMapping: 0.074411 ms MarkObjects: 5.196642 ms  DeleteObjects: 0.055167 ms)
+
+Application was quit by player.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
